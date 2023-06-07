@@ -4,7 +4,7 @@
  * @head: pointer to head pointer
  * @number: number to insert
  * Return: listint_t*
- */
+ /
 
 listint_t *insert_node(listint_t **head, int number)
 {
